@@ -1,0 +1,12 @@
+body {
+    background: #37517e;
+}
+
+.fs-6 {
+    display: flex;
+}
+
+#fs-5 {
+    padding-top: 2px;
+    font-size: 13px;
+}
